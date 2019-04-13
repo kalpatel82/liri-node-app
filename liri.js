@@ -57,7 +57,7 @@ function bandsInTown(query) {
         if (!error && response.statusCode === 200) {
 
             var response = JSON.parse(body);
-            console.log(response);
+            // console.log(response);
 
             for (i = 0; i < response.length; i++) {
                 var dTime = response[i].datetime;
