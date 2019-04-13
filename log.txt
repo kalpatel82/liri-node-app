@@ -1,0 +1,1627 @@
+
+---------------------------------------------------
+
+Artist: Travis Scott
+
+---------------------------------------------------
+
+Preview: null
+Album: ASTROWORLD
+Song: CAN'T SAY
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+Invalid Instruction
+
+---------------------------------------------------
+
+Album: Dying To Live
+
+---------------------------------------------------
+
+Song: ZEZE (feat. Travis Scott & Offset)
+Artist: Kodak Black
+Preview: https://p.scdn.co/mp3-preview/6efd5258507b6c144f649262903251679d1ecf0c?cid=6f9b2546d5874d46aa630996d2aa190c
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Song: I Want It That Way
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=6f9b2546d5874d46aa630996d2aa190c
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=6f9b2546d5874d46aa630996d2aa190c
+Artist: Backstreet Boys
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=6f9b2546d5874d46aa630996d2aa190c
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=6f9b2546d5874d46aa630996d2aa190c
+Artist: Backstreet Boys
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=6f9b2546d5874d46aa630996d2aa190c
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=6f9b2546d5874d46aa630996d2aa190c
+Album: The Hits--Chapter One
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Title: Home
+Country: USA
+Language: English, French
+Plot: An alien on the run from his own people makes friends with a girl. He tries to help her on her quest, but can be an interference.
+Actors: Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 50%
+Release Year: 2015
+IMDB Rating: 6.6
+
+---------------------------------------------------
+
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/15/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/16/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/19/2019
+Name: SPORTPALEIS
+City: Merksem
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/25/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/26/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/18/2019
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/27/2019
+Name: City of Rock
+City: Rio De Janeiro
+Country: Brazil
+
+---------------------------------------------------
+
+Name: SPORTPALEIS
+City: Merksem
+Date: 04/13/2019
+
+---------------------------------------------------
+
+Date: 04/13/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Merksem
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/16/2019
+Name: Ziggo Dome
+Country: Netherlands
+City: Amsterdam
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/19/2019
+Name: SPORTPALEIS
+City: Merksem
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/25/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+Name: SPORTPALEIS
+
+---------------------------------------------------
+
+Date: 04/26/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+Date: 04/15/2019
+Country: Belgium
+Date: 05/18/2019
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: City of Rock
+City: Rio De Janeiro
+Country: Brazil
+
+---------------------------------------------------
+
+Date: 09/27/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/13/2019
+Name: SPORTPALEIS
+
+---------------------------------------------------
+
+Date: 04/15/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/16/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/19/2019
+Name: SPORTPALEIS
+City: Merksem
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/25/2019
+Country: Belgium
+City: Merksem
+Country: Netherlands
+Name: Ziggo Dome
+
+---------------------------------------------------
+
+Date: 04/26/2019
+
+---------------------------------------------------
+
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+City: Amsterdam
+Date: 05/04/2019
+Name: Ziggo Dome
+
+---------------------------------------------------
+
+Country: NV
+
+---------------------------------------------------
+
+City: Las Vegas
+Name: XS Nightclub
+Date: 05/18/2019
+Name: XS Nightclub
+
+---------------------------------------------------
+
+Country: United States
+Country: United States
+City: Las Vegas
+
+---------------------------------------------------
+
+Date: 09/27/2019
+
+---------------------------------------------------
+
+Country: NV
+
+---------------------------------------------------
+
+Country: Brazil
+City: Rio De Janeiro
+Name: City of Rock
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/13/2019
+Name: Marquee Theatre
+City: Tempe
+Country: United States
+Country: AZ
+Date: 04/29/2019
+Name: Phoenix Concert Theatre
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: THE CABOOZE ON WEST BANK
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Name: Oran Mor
+City: Glasgow
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 06/08/2019
+
+---------------------------------------------------
+
+Name: The Nick Rayns LCR
+City: Norwich
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/12/2019
+Name: State Theatre
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: State Theatre
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/14/2019
+Name: State Theatre
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/17/2019
+City: Sydney
+Name: State Theatre
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/18/2019
+Name: State Theatre
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/19/2019
+Name: State Theatre
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/20/2019
+Name: State Theatre
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/21/2019
+Name: State Theatre
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/30/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/01/2019
+Name: Playhouse
+City: Whitley Bay
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/04/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/05/2019
+Name: Playhouse
+City: Toronto
+Date: 12/03/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/06/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/07/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/08/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/10/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/11/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 12/12/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/13/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/14/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/15/2019
+City: Whitley Bay
+Name: Playhouse
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/17/2019
+City: Whitley Bay
+Name: Playhouse
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/18/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/19/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/20/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/22/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/23/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/24/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+City: Whitley Bay
+Date: 12/26/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/27/2019
+City: Whitley Bay
+Name: Playhouse
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/28/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/29/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/30/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/31/2019
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/02/2020
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/03/2020
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/04/2020
+Name: Playhouse
+City: Whitley Bay
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 04/13/2019
+Name: SPORTPALEIS
+
+---------------------------------------------------
+
+Date: 04/15/2019
+Name: Ziggo Dome
+City: Merksem
+Country: Belgium
+Country: Netherlands
+City: Amsterdam
+Date: 04/16/2019
+Name: Ziggo Dome
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Netherlands
+
+---------------------------------------------------
+
+City: Amsterdam
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Merksem
+Name: SPORTPALEIS
+City: Amsterdam
+Date: 04/25/2019
+Name: Ziggo Dome
+
+---------------------------------------------------
+
+Date: 04/19/2019
+Name: Ziggo Dome
+Date: 04/26/2019
+City: Amsterdam
+
+---------------------------------------------------
+
+Country: Netherlands
+
+---------------------------------------------------
+
+City: Las Vegas
+Name: XS Nightclub
+Date: 05/04/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Netherlands
+
+---------------------------------------------------
+
+Country: NV
+Country: NV
+Country: United States
+City: Las Vegas
+
+---------------------------------------------------
+
+Date: 09/27/2019
+Name: City of Rock
+City: Rio De Janeiro
+Name: XS Nightclub
+
+---------------------------------------------------
+
+Date: 05/18/2019
+Country: Brazil
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Country: Belgium
+Date: 04/13/2019
+
+---------------------------------------------------
+
+Artist: [object Object]
+Date: 04/15/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Name: SPORTPALEIS
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/19/2019
+
+---------------------------------------------------
+
+Name: SPORTPALEIS
+City: Merksem
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Name: Ziggo Dome
+Date: 04/25/2019
+City: Merksem
+Country: Netherlands
+
+---------------------------------------------------
+
+Artist: [object Object]
+
+---------------------------------------------------
+
+Date: 04/26/2019
+Name: Ziggo Dome
+Date: 04/16/2019
+
+---------------------------------------------------
+
+Country: Netherlands
+
+---------------------------------------------------
+
+City: Amsterdam
+Date: 05/04/2019
+Name: XS Nightclub
+City: Amsterdam
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Date: 05/18/2019
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+Artist: [object Object]
+Artist: [object Object]
+Date: 09/27/2019
+
+---------------------------------------------------
+
+Artist: [object Object]
+Country: Brazil
+City: Las Vegas
+City: Rio De Janeiro
+
+---------------------------------------------------
+
+Name: City of Rock
+
+---------------------------------------------------
+
+Artist: [object Object]
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Date: 04/15/2019
+Name: Ziggo Dome
+Country: Netherlands
+City: Amsterdam
+Name: SPORTPALEIS
+
+---------------------------------------------------
+
+Artist: [object Object]
+Name: Ziggo Dome
+Date: 04/16/2019
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Date: 04/19/2019
+Name: SPORTPALEIS
+City: Merksem
+City: Merksem
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Belgium
+
+---------------------------------------------------
+
+Name: Ziggo Dome
+City: Amsterdam
+Date: 04/13/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Date: 04/26/2019
+Name: Ziggo Dome
+City: Amsterdam
+Artist: [object Object]
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Date: 05/04/2019
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: [object Object]
+Country: Netherlands
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+Date: 04/25/2019
+
+---------------------------------------------------
+
+Date: 05/18/2019
+Date: 09/27/2019
+Name: City of Rock
+City: Rio De Janeiro
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+Country: Brazil
+Artist: [object Object]
+
+---------------------------------------------------
+
+Country: Belgium
+City: Merksem
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/15/2019
+City: Amsterdam
+Artist: Drake
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/16/2019
+Artist: Drake
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+Date: 04/13/2019
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/19/2019
+Name: SPORTPALEIS
+Name: Ziggo Dome
+
+---------------------------------------------------
+
+Name: SPORTPALEIS
+
+---------------------------------------------------
+
+City: Merksem
+Name: Ziggo Dome
+Date: 04/25/2019
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Belgium
+Name: Ziggo Dome
+Artist: Drake
+Country: Netherlands
+Date: 04/26/2019
+City: Amsterdam
+Artist: Drake
+Date: 05/04/2019
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 05/18/2019
+Artist: Drake
+Country: United States
+Country: NV
+Country: United States
+City: Las Vegas
+
+---------------------------------------------------
+
+Date: 09/27/2019
+Name: XS Nightclub
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Brazil
+Artist: Drake,Red Hot Chili Peppers,Muse,Foo Fighters,Bon Jovi,Slayer,Iron Maiden,Whitesnake,King Crimson,Imagine Dragons,Xenia,Jessie J,Charlie Puth,Black Eyed Peas -,Robin Schulz,P!nk
+City: Rio De Janeiro
+
+---------------------------------------------------
+
+Name: City of Rock
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/13/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/15/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/16/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/19/2019
+Name: SPORTPALEIS
+Country: Belgium
+City: Merksem
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Name: Ziggo Dome
+Date: 04/25/2019
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+Artist: Drake
+
+---------------------------------------------------
+
+Date: 04/26/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 05/04/2019
+Name: XS Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 05/18/2019
+Name: XS Nightclub
+Country: Belgium
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake,Red Hot Chili Peppers,Muse,Foo Fighters,Bon Jovi,Slayer,Iron Maiden,Whitesnake,King Crimson,Imagine Dragons,Xenia,Jessie J,Charlie Puth,Black Eyed Peas -,Robin Schulz,P!nk
+Date: 09/27/2019
+Name: City of Rock
+City: Rio De Janeiro
+Country: Brazil
+
+---------------------------------------------------
+
+City: Las Vegas
+Name: SPORTPALEIS
+City: Merksem
+
+---------------------------------------------------
+
+Album: Championships
+
+---------------------------------------------------
+
+Preview: null
+Artist: Meek Mill
+Song: Going Bad (feat. Drake)
+
+---------------------------------------------------
+
+Artist: Leslie Odom Jr.
+Song: Non-Stop
+Preview: https://p.scdn.co/mp3-preview/02843b7e5f125fc4f3a3f270ee85e4392d157a17?cid=6f9b2546d5874d46aa630996d2aa190c
+
+---------------------------------------------------
+
+Album: Hamilton (Original Broadway Cast Recording)
+
+---------------------------------------------------
+
+Song: Nonstop
+Artist: Drake
+Preview: null
+Album: Scorpion
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: The Avengers
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+Release Year: 2012
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Language: English, Russian, Hindi
+
+---------------------------------------------------
+
+Country: USA
+
+---------------------------------------------------
+
+Release Year: 2007
+Title: Pirates of the Caribbean: At World's End
+Country: USA
+Rotten Tomatoes Rating: 44%
+IMDB Rating: 7.1
+Actors: Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley
+
+---------------------------------------------------
+
+Plot: Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.
+Language: English
+
+---------------------------------------------------
+
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+Country: USA
+
+---------------------------------------------------
+
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Language: English, Russian, Hindi
+
+---------------------------------------------------
+
+Title: The Avengers
+IMDB Rating: 8.1
+Release Year: 2012
+Country: USA
+Rotten Tomatoes Rating: 92%
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Language: English, Russian, Hindi
+
+---------------------------------------------------
+
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+
+---------------------------------------------------
+
+Release Year: 2012
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+
+---------------------------------------------------
+
+Title: The Avengers
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+City: Merksem
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/15/2019
+Name: Ziggo Dome
+Artist: Drake
+Country: Netherlands
+
+---------------------------------------------------
+
+City: Amsterdam
+Artist: Drake
+Date: 04/16/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/19/2019
+Name: SPORTPALEIS
+
+---------------------------------------------------
+
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/25/2019
+Name: Ziggo Dome
+City: Merksem
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake
+Date: 04/26/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+Name: SPORTPALEIS
+Date: 04/13/2019
+Artist: Drake
+Name: XS Nightclub
+
+---------------------------------------------------
+
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/18/2019
+Name: XS Nightclub
+City: Las Vegas
+City: Amsterdam
+Country: NV
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Drake,Red Hot Chili Peppers,Muse,Foo Fighters,Bon Jovi,Slayer,Iron Maiden,Whitesnake,King Crimson,Imagine Dragons,Xenia,Jessie J,Charlie Puth,Black Eyed Peas -,Robin Schulz,P!nk
+Date: 09/27/2019
+Artist: Drake
+City: Rio De Janeiro
+Country: United States
+
+---------------------------------------------------
+
+Country: Brazil
+Name: City of Rock
+Date: 05/04/2019
+
+---------------------------------------------------
+
+Artist: Red Hot Chili Peppers
+Song: Can't Stop
+
+---------------------------------------------------
+
+Album: By The Way (Deluxe Version)
+Preview: https://p.scdn.co/mp3-preview/2a3ca153db04f7efd802d93393fa98d61a8c8fa9?cid=6f9b2546d5874d46aa630996d2aa190c
+
+---------------------------------------------------
+
+Release Year: 1989
+Title: Batman
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 71%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Album: By The Way (Deluxe Version)
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/ba7cb54850ccc71f42c627b36e2045cec23e2662?cid=6f9b2546d5874d46aa630996d2aa190c
+Artist: Red Hot Chili Peppers
+Song: Can't Stop
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Artist: Movie Soundtrack All Stars
+Song: I Want It That Way (From "Drive Me Crazy")
+Album: Greatest 90s Teen Movie Songs
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/269a528d08fecb2196742238e5f19f9a6567e892?cid=6f9b2546d5874d46aa630996d2aa190c
+
+---------------------------------------------------
+
+Artist: Movie Soundtrack All Stars
+Preview: https://p.scdn.co/mp3-preview/269a528d08fecb2196742238e5f19f9a6567e892?cid=6f9b2546d5874d46aa630996d2aa190c
+Song: I Want It That Way (From "Drive Me Crazy")
+Album: Greatest 90s Teen Movie Songs
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6f9b2546d5874d46aa630996d2aa190c
+Artist: Backstreet Boys
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6f9b2546d5874d46aa630996d2aa190c
+Artist: Backstreet Boys
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6f9b2546d5874d46aa630996d2aa190c
+Album: The Hits--Chapter One
+Song: I Want It That Way
+
+---------------------------------------------------
+
